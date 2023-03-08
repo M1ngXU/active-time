@@ -1,7 +1,7 @@
 [package]
 name = "active-time"
 description = "A Rust crate to find out the current amount of time the system has been active, excluding time spent hibernating/sleeping."
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 
