@@ -4,6 +4,7 @@ description = "A Rust crate to find out the current amount of time the system ha
 version = "0.1.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/M1ngXU/active-time"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
