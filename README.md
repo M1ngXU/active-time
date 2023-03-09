@@ -1,4 +1,8 @@
 # active-time
+
+[![crates.io](https://img.shields.io/crates/v/active-time.svg)](https://crates.io/crates/active-time)
+[![docs.rs](https://img.shields.io/docsrs/active-time)](https://docs.rs/active-time)
+
 A Rust crate to find out the current amount of time the system has been active, excluding time spent hibernating/sleeping.
 
 # Windows
